@@ -33,6 +33,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+.max-size {
+  height: 25rem;
+}
 .flex-col {
   display: flex;
   flex-direction: column;

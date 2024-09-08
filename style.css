@@ -12,6 +12,13 @@ body {
   border-radius: 50%;
   animation: spin 2s linear infinite;
 }
+
+.max-height {
+  max-height: 200px;
+  display: flex;
+  justify-content: center;
+}
+
 .bg-dark-x {
   background-color: #1d1f1e;
 }

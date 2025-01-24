@@ -4,6 +4,7 @@ body {
 
 .bold-text {
   font-weight: bolder;
+  display: inline;
 }
 
 .circular-progress {

@@ -2,6 +2,10 @@ body {
   overflow-x: hidden;
 }
 
+.bold-text {
+  font-weight: bolder;
+}
+
 .circular-progress {
   /* position: absolute; */
   /* background-color: lightgrey; */
